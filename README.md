@@ -10,7 +10,7 @@ git merge master
 git mergetool
 ```
 
-All those commands will now be done in one command, 
+All those commands will now be done in one command, (after you have edited your path variable)
 ```
 gmc
 ```
